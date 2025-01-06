@@ -54,7 +54,7 @@ The "code" folder contains two functional modules:
 &emsp;&emsp;2. Use FGA to select the seed adversarial samples. -- fga_selection.py  
 
 
-
-
+Remark: The data file suffixed with ‘train’ is used for training the model, and the file suffixed with ‘adv’ is used as the adversarial file.
+Python version: Python3.7
 
 
